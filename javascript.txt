@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 A turma é mara
+=======
+A turma é mara
+
+Hello world.
+>>>>>>> 6392d03eaf15e15c0d4564d459da594c22733539
